@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 *.pem
 .env
+# Secrets (DO NOT COMMIT)
+Voiceflow-backend/config.py
+.env
+*.env
